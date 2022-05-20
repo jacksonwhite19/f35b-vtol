@@ -1,2 +1,2 @@
 # f35b-vtol
-F35B VTOL model, controlled by a BeagleBone Black. Programmed using Simulink.
+F35B VTOL model, controlled by an Arduino Due. Programmed using Simulink.
